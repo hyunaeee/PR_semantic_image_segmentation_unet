@@ -4,4 +4,3 @@ segmentation
 / unet-model 
 / medical-image 
 / keras
-/ 
